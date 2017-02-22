@@ -29,8 +29,6 @@ class DefinitionViewController: UIViewController {
         print(emoji)
         
         if emoji == "🤣"{
-            
-            
             definitionLabel.text = "JAJAJA QUE PINCHE CURA"
         }
         if emoji == "👻"{
